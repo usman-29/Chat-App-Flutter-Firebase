@@ -24,3 +24,5 @@ Contributions are welcome! Whether you want to improve the user interface, add n
 - Emoji Support
 
 We look forward to your contributions and hope you enjoy building and using this Flutter Firebase Chat App! 🌐💬
+
+![alt text](https://github.com/[usman-29]/[Chat-App-Flutter-Firebase]/blob/[main]/Screenshot_1705331648.png?raw=true)
