@@ -25,4 +25,4 @@ Contributions are welcome! Whether you want to improve the user interface, add n
 
 We look forward to your contributions and hope you enjoy building and using this Flutter Firebase Chat App! 🌐💬
 
-![alt text](![Screenshot_1705331648](https://github.com/usman-29/Chat-App-Flutter-Firebase/assets/96678300/b264980a-4c1f-426a-8f01-599c92ed396e))
+![Screenshot_1705331648](https://github.com/usman-29/Chat-App-Flutter-Firebase/assets/96678300/b264980a-4c1f-426a-8f01-599c92ed396e)
